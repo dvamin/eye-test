@@ -1,0 +1,10 @@
+.normal,.special,.dead{
+    border:1px solid #000;
+    margin:1%;
+    float:left;
+    display:block;
+}
+
+.dead{
+    background: rgb(0,0,0)
+}
